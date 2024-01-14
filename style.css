@@ -770,9 +770,7 @@ ul{
   width: 24%;
   
 }
-.container{
-  max-width: 1720px;
-}
+
 
 ul li {
   list-style: none;
@@ -791,7 +789,7 @@ ul li :hover{
 }
 .footer{
   padding: 70px 0;
-  background-color: rgb(90, 90, 237);
+  background-color: rgb(126, 126, 207);
 }
 .footer_secsion h4{
   font-size: 30px;
@@ -812,7 +810,8 @@ ul li :hover{
   display: block;
 
 }
-h3{
+
+footer h3{
   position: absolute;
   margin: 0px 1200px ;
   margin-top: -40px;
